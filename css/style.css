@@ -124,6 +124,7 @@ footer {
     
     header {
         text-align: left;
+        padding: 2em;
     }
 
     .container-flex {
@@ -185,6 +186,8 @@ nav a:hover, a:focus {
     nav li {
         margin: 0 0 0 2em ;
     }
+
+
 }
 
 /* Article */
@@ -237,5 +240,7 @@ nav a:hover, a:focus {
     .article-recent-secondary {
         width: 30%;
     }
+
+    
 
 }
