@@ -227,7 +227,20 @@ nav a:hover, a:focus {
     margin-bottom: 3em;
 }
 
+.widget-recent-post {
+    border-bottom: 1px solid #ababab;
+    padding-bottom: 0.5em;
+    margin-bottom: 2em;
+}
+
+.widget-recent-post:last-child {
+    border-bottom: none;
+}
+
+
+
 @media (min-width: 675px) {
+
     .article-recent {
         flex-direction: row;
         justify-content: space-between;
